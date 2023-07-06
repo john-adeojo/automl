@@ -1,0 +1,4 @@
+output_dir: ../automl/
+project_name: Auto ML Project
+repo_name: auto-ml
+python_package: auto_ml
